@@ -2,10 +2,13 @@
 Demonstration repository for data lecture
 
 ## Schedule
-| Time         | Topic                                 |
-|------------------------------------------------------|
-| 9:00–9:15    | Introduction                          |  | 9:15–10:45   | Personal/project data management      |  
-| 11:00–12:30  | Data formats, tools, and helpers      |  | 13:30–14:15  | Institutional solutions, case example |  | 14:15–15:00  | Public data sources                   |  
+| Time         | Topic                                 |  
+|------------------------------------------------------|  
+| 9:00–9:15    | Introduction                          |  
+| 9:15–10:45   | Personal/project data management      |  
+| 11:00–12:30  | Data formats, tools, and helpers      |  
+| 13:30–14:15  | Institutional solutions, case example |  
+| 14:15–15:00  | Public data sources                   |  
 
 
 ## Pad.UP
