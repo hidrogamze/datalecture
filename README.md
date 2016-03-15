@@ -3,13 +3,22 @@ Demonstration repository for data lecture
 
 ## Schedule
 | Time         | Topic                                 |
-|------------------------------------------------------|
+|-------------:|:--------------------------------------|
 | 9:00–9:15    | Introduction                          |  | 9:15–10:45   | Personal/project data management      |  
 | 11:00–12:30  | Data formats, tools, and helpers      |  | 13:30–14:15  | Institutional solutions, case example |  | 14:15–15:00  | Public data sources                   |  
 
 
 ## Pad.UP
 <https://padup.uni-potsdam.de/index.php?name=g.RG6kQsuSZUYO0Fta$a.4plBErZ9iNtn4fRc.datalecture>
+
+or in short: <http://bit.do/natriskchange1>
+
+## Box.UP
+<https://boxup.uni-potsdam.de/public.php?service=files&t=fa6bf4f5034d8f1c0e3d32dd8187eaac>
+
+or in short: <http://bit.do/natriskchange2>
+
+with password: `natriskchange`
 
 ## DFG Rules
 [Rules of Good Scientific Practice](http://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/)
@@ -76,4 +85,9 @@ Demonstration repository for data lecture
 * <http://rogerdudler.github.io/git-guide/index.de.html>
 
 ## Coding Style
-<http://www.nyu.edu/classes/nagler/quant2/coding_style.html>
+* <http://www.nyu.edu/classes/nagler/quant2/coding_style.html>
+
+## netCDF
+* Conventions: <http://cfconventions.org/>
+* Attribute conventions: <http://wiki.esipfed.org/index.php/Category:Attribute_Conventions_Dataset_Discovery>
+* Example code: <http://www.unidata.ucar.edu/software/netcdf/examples/programs/>
