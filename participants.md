@@ -3,7 +3,7 @@
 ## Lecturer
 
 Norbert Marwan
-
+(PIK Potsdam)
 
 ## Participants
 
