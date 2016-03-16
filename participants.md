@@ -7,6 +7,6 @@ Norbert Marwan
 
 ## Participants
 
-1.Gamze Koc
+1.
 2.
 3.
